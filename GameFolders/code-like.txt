@@ -2,3 +2,6 @@ void Start()
 {
 	Debug.Log("Hello Github");
 }
+void Update(){
+	SuperPower.SetActive(true);
+}
