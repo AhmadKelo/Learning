@@ -1,4 +1,4 @@
 void Start()
 {
-	Debug.Log("Hello GithUB");
+	Debug.Log("Hello Github");
 }
