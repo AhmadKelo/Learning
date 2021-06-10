@@ -2,4 +2,4 @@
 Organize Banderita's Game
 
 ## Header 2
-## Header 3
+### Header 3
